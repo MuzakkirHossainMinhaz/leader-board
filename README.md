@@ -1,6 +1,6 @@
 # leader-board
 
-This repository contains a simple responsive landing page design created using only HTML and CSS. The design was converted from a Figma file and is optimized for desktop and mobile devices.
+This repository contains a simple responsive landing page design created using only HTML and CSS. The design was converted from a Figma file and is optimized for desktop and mobile devices. [preview👁️‍🗨️](https://leader-board-v1.netlify.app/)
 
 ## Getting Started
 To get started with this landing page design, you can either download the source code or clone the repository to your local machine. Once you have the files, you can customize them to suit your needs.
