@@ -42,5 +42,8 @@ If you find any issues with this landing page design, you can submit a pull requ
 ## Credits
 The design for this landing page was created in Figma which collected from [Programming Hero](https://web.programming-hero.com/). The implementation in HTML and CSS was done by [Muzakkir Hossain Minhaz](https://github.com/MuzakkirHossainMinhaz).
 
+## Contribution Guidelines
+This is a personal project and contributions are not expected. However, if you would like to suggest improvements, feel free to open an issue or submit a pull request.
+
 ## License
 This landing page design is licensed under the [MIT License](/LICENSE.md). You are free to use, modify, and distribute this landing page design for personal or commercial purposes.
