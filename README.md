@@ -36,9 +36,6 @@ To use this landing page design, simply open the index.html file in your web bro
 
 To customize the design, you can modify the HTML and CSS files as needed. You can change the colors, fonts, images, and layout to fit your specific needs.
 
-## Contributing
-If you find any issues with this landing page design, you can submit a pull request or open an issue on the repository. Contributions are always welcome.
-
 ## Credits
 The design for this landing page was created in Figma which collected from [Programming Hero](https://web.programming-hero.com/). The implementation in HTML and CSS was done by [Muzakkir Hossain Minhaz](https://github.com/MuzakkirHossainMinhaz).
 
